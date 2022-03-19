@@ -1,0 +1,41 @@
+.rep {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+section {
+    flex-basis: 100%;
+    border: 5px double;
+    text-align: center;
+    margin: 15px;
+}
+
+p {
+    margin: 0;
+}
+
+.bio-section {
+    border: none;
+}
+
+.committee-section {
+    text-align: left;
+    padding: 10px;
+}
+
+.leg-section {
+    text-align: left;
+    padding: 10px;
+}
+
+.sponsor {
+    text-align: left;
+}
+
+#sponsor-title {
+    text-align: center;
+}
+
+#committee-title {
+    text-align: center;
+}
